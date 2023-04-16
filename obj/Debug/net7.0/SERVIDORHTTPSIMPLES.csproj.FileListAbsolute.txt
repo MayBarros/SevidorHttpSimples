@@ -1,0 +1,15 @@
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.exe
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.deps.json
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.runtimeconfig.json
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.dll
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.pdb
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.csproj.AssemblyReference.cache
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.GeneratedMSBuildEditorConfig.editorconfig
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.AssemblyInfoInputs.cache
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.AssemblyInfo.cs
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.csproj.CoreCompileInputs.cache
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.dll
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\refint\SERVIDORHTTPSIMPLES.dll
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.pdb
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.genruntimeconfig.cache
+M:\Area de trabalho\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\ref\SERVIDORHTTPSIMPLES.dll
